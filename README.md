@@ -1,8 +1,8 @@
-# object-distance
+# Object distance
 Vision Project - part 2
 
 ## Libraries and Sources
-To proceed, you need to have VLFeat library installed on your computer. You can use both Linux and Anaconda
+To proceed, you need to have the VLFeat library installed on your computer. You can use both Linux and Anaconda.
 Para prosseguir, você precisa ter a biblioteca VLFeat instalada em seu computador. Você pode usar tanto o Linux quanto o Anaconda
 
 [VLFeat](http://www.vlfeat.org/)
@@ -13,16 +13,16 @@ You can generate the camera calibration using [GML Camera Calibration Toolbox](h
 
 How to obtain Euler angles from matrix[Como obter ângulos de Euler a partir de uma matriz de rotação](http://www.staff.city.ac.uk/~sbbh653/publications/euler.pdf)iz de rotação
 
-## Configurations:¶
-Study cv_adapted.py and cv_adapted_webcam.py, which are based on ch4_ar_cube.py, see the corresponding chapter on Programming Computer Vision with Python
+## Configurations:
+Study cv_adapted.py and cv_adapted_webcam.py, which are based on ch4_ar_cube.py; see the corresponding chapter on Programming Computer Vision with Python.
 
-Generate a calibration file from your camera (probably your laptop's webcam). Section 4.2 of the book explains how to do it
+Generate a calibration file from your camera (probably your laptop's webcam). Section 4.2 of the book explains how to do it.
 
 See how to do it in the book. You can also configure your smartphone's camera as a webcam (there are apps for that)
 Adapt ch4_ar_cube.py to use images from your webcam. When done, use cv_adapted_webcam.py
 
 # Project
-This project constantly prints its distance in relation to a marker (x, y and z coordinates) of the camera
+This project constantly prints its distance in relation to a marker (x, y, and z coordinates) of the camera.
 
 Define a point in space as your goal
 
