@@ -3,7 +3,6 @@ Vision Project - part 2
 
 ## Libraries and Sources
 To proceed, you need to have the VLFeat library installed on your computer. You can use both Linux and Anaconda.
-Para prosseguir, você precisa ter a biblioteca VLFeat instalada em seu computador. Você pode usar tanto o Linux quanto o Anaconda
 
 [VLFeat](http://www.vlfeat.org/)
 
