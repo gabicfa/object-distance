@@ -6,11 +6,11 @@ To proceed, you need to have the VLFeat library installed on your computer. You 
 
 [VLFeat](http://www.vlfeat.org/)
 
-This activity is based on chapter 4 of the book[Programming Computer Vision with Python](http://programmingcomputervision.com/)
+This activity is based on chapter 4 of the book [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 
 You can generate the camera calibration using [GML Camera Calibration Toolbox](http://graphics.cs.msu.ru/en/node/909)
 
-How to obtain Euler angles from matrix[Como obter ângulos de Euler a partir de uma matriz de rotação](http://www.staff.city.ac.uk/~sbbh653/publications/euler.pdf)iz de rotação
+How to obtain Euler angles from rotatiin matrix [How to obtain Euler angles from rotation matrix] (http://www.staff.city.ac.uk/~sbbh653/publications/euler.pdf)
 
 ## Configurations:
 Study cv_adapted.py and cv_adapted_webcam.py, which are based on ch4_ar_cube.py; see the corresponding chapter on Programming Computer Vision with Python.
